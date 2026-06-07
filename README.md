@@ -1,7 +1,12 @@
-🎓 2nd Year Computer Science Student
+<h1 align="center">Hi 👋, I'm Ayushmanjit Singh</h1>
+<h3 align="center">An Aspirant Computer Science Engineer</h3>
 
-💻 Exploring software development and computer science fundamentals
+- 🌱 I’m currently learning **C, Data Structures & Algorithm**
 
-🌱 Currently studying C programming and strengthening problem-solving skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ayushmanjit singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushmanjit singh" height="30" width="40" /></a>
+</p>
 
-🚀 Interested in learning new technologies and building practical projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
