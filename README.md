@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayushmanjit Singh</h1>
+<h1 align="center">Hi 👋, I'm Ayushmanjit</h1>
 <h3 align="center">An Aspirant Computer Science Student</h3>
 
 - 🌱 I’m currently learning **C, Data Structures & Algorithm**
